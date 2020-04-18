@@ -6,8 +6,6 @@ Learning objectives:
 
 Bonus: visualize and analyze social networks in Python (not able to do in this dataset, since we don't have data on which users d
 
-Data source: https://www.kaggle.com/sheenabatra/facebook-data/data#
-
 Data cleaning and visualization
 1) What are the high level demographics of Facebook users?
 2) What are the most important user metrics to focus on? 
@@ -19,5 +17,8 @@ Designing pseudo-A/B tests
 Analyzing pseudo-A/B test
 1) What's the difference in the key metric values (include statistical significance + confidence interval)?
 
+Resources:
+- Data source: https://www.kaggle.com/sheenabatra/facebook-data/data#
+- Importing data into Python: https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
 
 
