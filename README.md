@@ -20,5 +20,6 @@ Analyzing pseudo-A/B test
 Resources:
 - Data source: https://www.kaggle.com/sheenabatra/facebook-data/data#
 - Importing data into Python: https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+- Sample study guide for learning Python: https://github.com/robert8138/python-deliberate-practice
 
 
